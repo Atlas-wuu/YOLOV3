@@ -8,7 +8,9 @@ A Keras implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/
 
 
 ---
-
+## 数据集
+采用voc07，2007_train.txt与2007_test.txt分别为生成的训练集与测试集。经测试mAP为74.48%
+博客：https://blog.csdn.net/qq_41994006/article/details/81053767
 ## Quick Start
 
 1. Download YOLOv3 weights from [YOLO website](http://pjreddie.com/darknet/yolo/).
